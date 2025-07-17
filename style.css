@@ -12,7 +12,7 @@ body {
     justify-content: center;
     background-color: #ffffff;
     background-image: none;
-    padding: 50px;
+    padding: 20px;
   }
   
 .navegacao ul {
@@ -251,7 +251,7 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    gap: 100px;
+    gap: 50px;
     margin: 0 auto;
     font-family: 'VT323', monospace;
     font-size: 24px;
@@ -266,7 +266,7 @@ body {
   }
   
 .imagem-trabalhos {
-    width: 386px;
+    width: 300px;
     height: auto;
     display: block;
     object-fit: contain;
